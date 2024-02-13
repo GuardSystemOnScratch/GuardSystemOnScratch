@@ -5,5 +5,5 @@
 - 📫 How to reach me, on Scratch: https://scratch.mit.edu/users/GuardSystem/ .
 - ❤ I love cats.
 - :octocat:: My GitHub account: https://github.com/GuardSystemOnScratch (Where you are🤣).
-- 🕙 Now: No project will be created today.
+- 🕙 Now: No project will be created today.(I am mostly inactive)
 - <> I did code a python project on visual studio code (app).
