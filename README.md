@@ -7,3 +7,4 @@
 - :octocat:: My GitHub account: https://github.com/GuardSystemOnScratch (Where you are🤣).
 - 🕙 Now: No project will be created today.(I am mostly inactive)
 - <> I did code a python project on visual studio code (app).
+- 🗺 I can speak three language: French, Japanese and English, I prefer speaking English
