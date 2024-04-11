@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GuardSystemOnScratch
 - 👀 I’m interested in maths, carnivorusplants, etc.
 - 🌱 I’m currently learning Python, Javascript, VBScript, and Batch, I guess(I know a little HTML).
+- <>I know coding in Python, Javascript, VBScript, Batch, Scratch, World Edit, and HTML, I guess
 - ![CatTypingGIF](https://github.com/GuardSystemOnScratch/GuardSystemOnScratch/assets/151439391/930cab63-5785-46b7-9e16-f96649cb3328)
 - 💞️ I’m looking to collaborate on Scratch and GitHub.
 - 📫 How to reach me, on Scratch: https://scratch.mit.edu/users/GuardSystem/ .
