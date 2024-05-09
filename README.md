@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GuardSystemOnScratch
+- 👋 Hi, I’m @GuardSystemOnScratch.
 - 👀 I’m interested in maths, carnivorusplants, etc.
 - 🌱 I’m currently learning Python, Javascript, VBScript, and Batch, I guess(I know a little HTML).
 - <>I know coding in Python, Javascript, VBScript, Batch, Scratch, World Edit, and HTML, I guess.
@@ -7,6 +7,6 @@
 - 📫 How to reach me, on Scratch: https://scratch.mit.edu/users/GuardSystem/ .
 - ❤ I love cats.
 - :octocat:: My GitHub account: https://github.com/GuardSystemOnScratch (Where you are🤣).
-- 🕙 Now: No project will be created today.(I am mostly inactive)
+- 🕙 Now: No project will be created today(I am mostly inactive).
 - <> I did code a python project on visual studio code (app).
-- 🗺 I can speak three language: French, Japanese and English, I prefer speaking English
+- 🗺 I can speak three language: French, Japanese and English, I prefer speaking English.
